@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeiroApp.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image
+                Source="dotnet_bot.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                HeightRequest="200"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Hello, World!"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Welcome to .NET Multi-platform App UI"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Click me"
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Center" />
+
+            <Button
+                x:Name="btnZerarContagem"
+                Text="Zerar contagem"
+                Clicked="btnZerarContagem_Clicked"
+                HorizontalOptions="Center" />
+
+            <Entry
+                x:Name="txtNome"
+                Placeholder="Digite seu nome" />
+
+            <Button
+                x:Name="btnVerificar"
+                Text="Verificar" Clicked="btnVerificar_Clicked" />
+
+            <Button
+                x:Name="btnLimpar"
+                Text="Limpar"
+                Clicked="btnLimpar_Clicked"/>
+
+            <Label
+                Text="Selecione a sua data de nascimento" />
+
+            <DatePicker
+                x:Name="txtDtNascimento" />
+
+            <Button
+                x:Name="btnVerificarDiasVividos"
+                Text="Verificar dias vividos"
+                Clicked="btnVerificarData_Clicked" />
+
+            <Button
+                x:Name="btnCalcular"
+                Text="Calcular"
+                Clicked="btnCalcular_Clicked"
+                Margin="0,0,0,10"/> <!--Praticamente um MarginBottom de 10-->
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
