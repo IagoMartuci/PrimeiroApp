@@ -17,7 +17,7 @@ public partial class MainPage : ContentPage
         else
             CounterBtn.Text = $"Clicked {count} times";
 
-        SemanticScreenReader.Announce(CounterBtn.Text); // Função de acessibilidade: https://learn.microsoft.com/en-us/dotnet/maui/fundamentals/accessibility?view=net-maui-7.0
+        SemanticScreenReader.Announce(CounterBtn.Text); // Função de acessibilidade: https://learn.microsoft.com/pt-br/dotnet/maui/fundamentals/accessibility?view=net-maui-7.0
     }
 
     private async void btnZerarContagem_Clicked(object sender, EventArgs e)
