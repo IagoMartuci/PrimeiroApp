@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ADS\\MAUI\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {}
+    "C:\\ADS\\MAUI\\13022023\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {}
   },
   "projects": {
-    "C:\\ADS\\MAUI\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {
+    "C:\\ADS\\MAUI\\13022023\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ADS\\MAUI\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
+        "projectUniqueName": "C:\\ADS\\MAUI\\13022023\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
         "projectName": "PrimeiroApp",
-        "projectPath": "C:\\ADS\\MAUI\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
+        "projectPath": "C:\\ADS\\MAUI\\13022023\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
         "packagesPath": "C:\\Users\\iagom\\.nuget\\packages\\",
-        "outputPath": "C:\\ADS\\MAUI\\PrimeiroApp\\PrimeiroApp\\obj\\",
+        "outputPath": "C:\\ADS\\MAUI\\13022023\\PrimeiroApp\\PrimeiroApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

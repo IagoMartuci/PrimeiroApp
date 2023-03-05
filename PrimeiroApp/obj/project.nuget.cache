@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ENxDP6CHUyRoX9JExOrKRIuwOEh45aZ6f2XOjseKYIy71s4USgZ8eoeaE87d1gsc6gkkqO41I/VpTp7Ijd4MQ==",
+  "dgSpecHash": "PMk+I+D3nuN1DLDBZbiyHZSEQzbgRfYDkR9eEsDzY5GGeaqrRxjCwd/bbPC4OQMTPPO50dqjYIvLK40riAq8Bw==",
   "success": true,
-  "projectFilePath": "C:\\ADS\\MAUI\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
+  "projectFilePath": "C:\\ADS\\MAUI\\13022023\\PrimeiroApp\\PrimeiroApp\\PrimeiroApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iagom\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\iagom\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
